@@ -109,7 +109,7 @@ export default {
   node: {
     shape: 'rectangle',
     marginX: 50,
-    marginY: 0,
+    marginY: 10,
     fillColor: 'transparent',
     fontFamily: '微软雅黑, Microsoft YaHei',
     color: '#6a6d6c',

@@ -291,7 +291,7 @@ export default {
       border: 2px solid transparent;
 
       &.active {
-        border-color: #409eff;
+        border-color: #32FF6C;
       }
 
       .icon {
@@ -320,7 +320,7 @@ export default {
         }
 
         &.smm {
-          color: #409eff;
+          color: #32FF6C;
         }
 
         &.xmind {

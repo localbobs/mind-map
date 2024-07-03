@@ -94,7 +94,7 @@ export default {
     left: -6px;
     width: 35px;
     height: 60px;
-    background: #409eff;
+    background: #32FF6C;
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
@@ -149,7 +149,7 @@ export default {
       }
 
       &.active {
-        color: #409eff;
+        color: #32FF6C;
         font-weight: bold;
       }
 

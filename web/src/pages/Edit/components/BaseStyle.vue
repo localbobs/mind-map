@@ -1513,7 +1513,7 @@ export default {
 <style lang="less">
 .el-select-dropdown__item.selected {
   .borderLine {
-    background-color: #409eff;
+    background-color: #32FF6C;
   }
 }
 
@@ -1529,7 +1529,7 @@ export default {
   &.isSelected {
     svg {
       path {
-        stroke: #409eff;
+        stroke: #32FF6C;
       }
     }
   }

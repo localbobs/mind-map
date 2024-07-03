@@ -124,7 +124,7 @@ body {
       }
 
       .el-select-dropdown__item.selected {
-        color: #409eff;
+        color: #32FF6C;
       }
 
       .el-select-dropdown__item.hover,
@@ -165,7 +165,7 @@ body {
 
       &:hover,
       &.is-active {
-        color: #409eff;
+        color: #32FF6C;
       }
     }
 
@@ -187,7 +187,7 @@ body {
 
       .el-radio-button__orig-radio:checked + .el-radio-button__inner {
         color: #fff;
-        background-color: #409eff;
+        background-color: #32FF6C;
       }
     }
 

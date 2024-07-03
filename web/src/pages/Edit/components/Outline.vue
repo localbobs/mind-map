@@ -331,26 +331,27 @@ export default {
 .customNode {
   width: 100%;
   color: rgba(0, 0, 0, 0.85);
-  font-weight: bold;
+  // font-weight: bold;
 
   .nodeEdit {
     outline: none;
     white-space: normal;
     padding-right: 20px;
+    font-size: 14px;
   }
 }
 
 .outlineTree {
   &.isDark {
-    background-color: #262a2e;
+    background-color: #282C34;
 
     .customNode {
-      color: #fff;
+      color: #B3B9C4;
     }
 
     &.el-tree--highlight-current {
       /deep/ .el-tree-node.is-current > .el-tree-node__content {
-        background-color: hsla(0, 0%, 100%, 0.05) !important;
+        background-color: #00702F !important;
       }
     }
 

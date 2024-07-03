@@ -151,7 +151,7 @@ export default {
             width: 28px;
             height: 28px;
             border-radius: 50%;
-            border: 2px solid #409eff;
+            border: 2px solid #32FF6C;
           }
         }
       }

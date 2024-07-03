@@ -227,7 +227,7 @@ export default {
                 width: 28px;
                 height: 28px;
                 border-radius: 50%;
-                border: 2px solid #409eff;
+                border: 2px solid #32FF6C;
               }
             }
           }
@@ -269,7 +269,7 @@ export default {
               top: -4px;
               width: 54px;
               height: 54px;
-              border: 2px solid #409eff;
+              border: 2px solid #32FF6C;
             }
           }
         }

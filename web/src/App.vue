@@ -16,6 +16,8 @@ export default {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: rgb(169, 177, 190) rgb(46, 51, 60);
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

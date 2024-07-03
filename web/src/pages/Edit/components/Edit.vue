@@ -832,7 +832,7 @@ export default {
         this.mindMap.cooperate.setUserInfo({
           id: Math.random(),
           name: this.$route.query.userName,
-          color: ['#409EFF', '#67C23A', '#E6A23C', '#F56C6C', '#909399'][
+          color: ['#32FF6C', '#67C23A', '#E6A23C', '#F56C6C', '#909399'][
             Math.floor(Math.random() * 5)
           ],
           avatar:

@@ -74,7 +74,7 @@
                     stroke-width="2"
                     :stroke="
                       styleConfig.strokeDasharray === item.value
-                        ? '#409eff'
+                        ? '#32FF6C'
                         : isDark
                         ? '#fff'
                         : '#000'
@@ -228,7 +228,7 @@ export default {
 <style lang="less">
 .el-select-dropdown__item.selected {
   .borderLine {
-    background-color: #409eff;
+    background-color: #32FF6C;
   }
 }
 </style>
